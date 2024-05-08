@@ -19,26 +19,27 @@ My tech journey commenced with the pursuit of the BS Information Technology prog
 )
 
 **Issued by:** Oracle University  
-
 **Date:** November 25, 2023
 
  🌐 [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1E333089F05C9C938C2110AAA3E02D102CCFBFD3F7C91C504C435B31EA78BD7A&fbclid=IwAR3ZDReFVYhrGEkukyBV3Gf4bP61tlFjNgVujU10B31FebrfyZlBBcOMJWk
 )  
 **Issued by:** Oracle University  
-
 **Date:** November 24, 2023
 
 🌐 [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F9A43403BD2B46152E3ABDF7B7B64893C63C229416D7274C6994A3343790265F&fbclid=IwAR1UEj0FhG4KBwSm7QvPZhuxq93_JI5iRxrwIpR7afIMLq55Nm37V0MC7q8)
 
 **Issued by:** Oracle University  
-
 **Date:** November 16, 2023
 
  📊 [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/20349553d9af4f3cb2361c2fce751b2a)
  
-  **Issued by:** Oracle University  
-  
+  **Issued by:** Cognitive Class  
   **Date:** November 1, 2023
+
+  📊 [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/cadbee531a174236853fc97bd1352b50)
+ 
+   **Issued by:** Cognitive Class  
+    **Date:** April 27, 2024
 
 ## Skill Sets
 
