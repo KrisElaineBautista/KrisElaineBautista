@@ -42,7 +42,7 @@ My tech journey commenced with the pursuit of the BS Information Technology prog
    **Date:** April 27, 2024
     
 
-[Intro to Cybersecurity](https://www.credly.com/badges/fb3cf107-2bd3-41ca-a509-c2103b684eed/public_url)](https://www.credly.com/badges/fb3cf107-2bd3-41ca-a509-c2103b684eed/public_url)
+[Intro to Cybersecurity](https://www.credly.com/badges/fb3cf107-2bd3-41ca-a509-c2103b684eed/public_url)]
 
 **Issued by:** Cisco Networking Academy  
 **Date:** September 10, 2024
