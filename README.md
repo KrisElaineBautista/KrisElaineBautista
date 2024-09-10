@@ -40,6 +40,11 @@ My tech journey commenced with the pursuit of the BS Information Technology prog
  
    **Issued by:** Cognitive Class  
     **Date:** April 27, 2024
+    
+📊 [Intro to Cybersecurity](https://courses.cognitiveclass.ai/certificates/cadbee531a174236853fc97bd1352b50)
+ 
+   **Issued by:** Cisco Networking Academy
+    **Date:** September 10, 2024
 
 ## Skill Sets
 
