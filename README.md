@@ -51,7 +51,7 @@ My tech journey commenced with the pursuit of the BS Information Technology prog
 
 - 💾 **Programming:** Java, Javascript
 - 🛢️ **Databases:** IBM DB2 Cloud, MongoDB
-- 🛠️ **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, CSS
+- 🛠️ **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, CSS, Pentaho
 
 ## Reach Me
 
