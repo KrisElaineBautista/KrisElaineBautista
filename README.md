@@ -46,6 +46,7 @@ My tech journey commenced with the pursuit of the BS Information Technology prog
 
 **Issued by:** Cisco Networking Academy  
 **Date:** September 10, 2024
+
 👩‍💻 [Ethical Hacker](https://www.credly.com/badges/a9a454e1-86fb-4eec-94a5-0abfe1d95d8f)
 
 **Issued by:** Cisco Networking Academy  
