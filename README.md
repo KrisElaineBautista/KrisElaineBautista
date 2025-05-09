@@ -40,6 +40,11 @@ My tech journey commenced with the pursuit of the BS Information Technology prog
  
    **Issued by:** Cognitive Class  
    **Date:** April 27, 2024
+ 
+  📊 [Introduction to Cloud](https://courses.cognitiveclass.ai/certificates/d978aa32f0ce4e68b47e969eb411326a)
+ 
+   **Issued by:** Cognitive Class  
+   **Date:** April 30, 2024
     
 
 🔐 [Intro to Cybersecurity](https://www.credly.com/badges/fb3cf107-2bd3-41ca-a509-c2103b684eed/public_url)
