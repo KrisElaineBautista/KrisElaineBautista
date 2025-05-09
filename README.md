@@ -54,7 +54,7 @@ My tech journey commenced with the pursuit of the BS Information Technology prog
 
 ## Skill Sets
 
-- 💾 **Programming:** Java, Javascript
+- 💾 **Programming:** Java, Javascript, Python
 - 🛢️ **Databases:** IBM DB2 Cloud, MongoDB
 - 🛠️ **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, CSS, Pentaho
 
