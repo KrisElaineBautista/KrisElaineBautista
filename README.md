@@ -46,7 +46,6 @@ My tech journey commenced with the pursuit of the BS Information Technology prog
    **Issued by:** Cognitive Class  
    **Date:** April 30, 2024
     
-
 🔐 [Intro to Cybersecurity](https://www.credly.com/badges/fb3cf107-2bd3-41ca-a509-c2103b684eed/public_url)
 
 **Issued by:** Cisco Networking Academy  
@@ -56,6 +55,11 @@ My tech journey commenced with the pursuit of the BS Information Technology prog
 
 **Issued by:** Cisco Networking Academy  
 **Date:** October 6, 2024
+
+⌨ [IT Customer Support Basics](https://www.credly.com/badges/03943c8e-5633-4ae9-9345-534eb6a3d279/public_url)
+
+**Issued by:** Cisco Networking Academy  
+**Date:** May 15, 2025
 
 ## Skill Sets
 
