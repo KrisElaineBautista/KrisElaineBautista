@@ -72,3 +72,4 @@ My tech journey commenced with the pursuit of the BS Information Technology prog
 
 - 📧 **Email:** kris.elainebautista@gmail.com
 - **Linkedin:** [LinkedIn](https://www.linkedin.com/in/kris-elaine-s-bautista-06b7402a2/)
+-  **Facebook:** [Facebook](https://www.facebook.com/kris.s.bautista.2024)
