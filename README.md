@@ -14,7 +14,7 @@ My tech journey commenced with the pursuit of the BS Information Technology prog
   - 2022-Present
 
 ## Certification
-
+![Oracle](https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg)
 🌐 [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=62F207568DF947A7704147BF9C189A63514B93642FDDAB74330FFE0675E88A25&fbclid=IwAR2teZ9DxFfEal_leT_Ht_douomBfR63wDHjJ30InIil7WDmb7AhqEYddFM
 )
 
