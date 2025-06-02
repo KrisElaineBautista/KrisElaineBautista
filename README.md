@@ -63,7 +63,13 @@ My tech journey commenced with the pursuit of the BS Information Technology prog
 
 ![Cisco](https://img.shields.io/badge/Network-Cisco-blue?logo=cisco) [Introduction to Data Science]([https://www.credly.com/badges/03943c8e-5633-4ae9-9345-534eb6a3d279/public_url)
 **Issued by:** Cisco Networking Academy  
-**Date:** June 06, 2025
+**Date:** June 02, 2025
+
+![Cisco](https://img.shields.io/badge/Network-Cisco-blue?logo=cisco) [Data Analytics Essentials](https://www.credly.com/badges/37dff89f-e8f8-4482-9aa4-ad129b837b4f)
+**Issued by:** Cisco Networking Academy  
+**Date:** June 02, 2025
+
+
 
 ## Skill Sets
 
