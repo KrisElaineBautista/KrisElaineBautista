@@ -3,8 +3,7 @@
 
 ## About Me
 
-I have a passion for coding and a knack for effective database management, I thrive on the challenge of solving complex problems and crafting elegant solutions. 
-My tech journey commenced with the pursuit of the BS Information Technology program, and I've been immersed in the world of technology ever since.
+I have a strong passion for coding and a good understanding of database management. I enjoy solving difficult problems and finding clear, working solutions. Through my studies and hands-on practice, I’ve built a solid foundation in information technology and I’m always eager to learn more and improve my skills.
 
 
 ## Education
